@@ -1,7 +1,17 @@
+CALCULATE WEIGHTS AND BIASES
++>>+>>+>>>+>+
+>
+
 TAKE USER INPUT AND PUT IT IN INPUT REGISTERS
->>>>>>>>>
 ,------------------------------------------------>
 ,------------------------------------------------
 
+MOVE DATA INTO WORKING REGISTERS
 
-CALCULATE HIDDEN LAYERS
+CALCULATE HIDDEN NEURON A OUTPUT
+<
+[>[->+>+<<]>>[-<<+>>]<<<-]
+
+CALCULATE HIDDEN NEURON B OUTPUT
+
+MOVE DATA FROM THESE CALCULATIONS INTO PRIMARY REGISTERS
