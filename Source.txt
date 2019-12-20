@@ -6,7 +6,7 @@ TAKE USER INPUT AND PUT IT IN INPUT REGISTERS
 ,------------------------------------------------>
 ,------------------------------------------------
 
-MOVE DATA INTO WORKING REGISTERS
+MOVE HIDDEN LAYER DATA INTO WORKING REGISTERS
 <<<<<<<<<<[->>>>>>>>>>>>>+<<<<<<<<<<<<<] 
 >>>>>>>>>[->>>>>+>>>>>>>+<<<<<<<<<<<<]
 <<<<<<<<[->>>>>>>>>>>>>>>+<<<<<<<<<<<<<<<] 
@@ -17,8 +17,9 @@ MOVE DATA INTO WORKING REGISTERS
 >[->>>>>>>>>>>>>>>>>>>>>+<<<<<<<<<<<<<<<<<<<<<]
 
 CALCULATE HIDDEN NEURON A OUTPUT
-,
+>>>>>>>>
 [>[->+>+<<]>>[-<<+>>]<<<-]
+,
 
 CALCULATE HIDDEN NEURON B OUTPUT
 
