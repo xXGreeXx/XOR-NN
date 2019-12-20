@@ -7,6 +7,9 @@ TAKE USER INPUT AND PUT IT IN INPUT REGISTERS
 ,------------------------------------------------
 
 MOVE DATA INTO WORKING REGISTERS
+<<<<<<<<<<[->>>>>>>>>>>>>+<<<<<<<<<<<<<] Move 0 -> 13
+>>>>>>>>>[->>>>>+>>>>>>+<<<<<<<<<<<] Move 9 -> 14 : 21
+,
 
 CALCULATE HIDDEN NEURON A OUTPUT
 <
