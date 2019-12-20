@@ -22,5 +22,5 @@ Registers 11 and 12 will hold the weighted sums of the two hidden neurons
 
 Register 13 will hold the final network output
 
-Registers 13-30 are working registers used for data processing
+Registers 13-100 are working registers used for data processing
 
