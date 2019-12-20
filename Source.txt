@@ -1,5 +1,5 @@
 CALCULATE WEIGHTS AND BIASES
-+>>+>>+>>>+>+
++>++>+>>+>>>+>+
 >
 
 TAKE USER INPUT AND PUT IT IN INPUT REGISTERS
@@ -7,8 +7,10 @@ TAKE USER INPUT AND PUT IT IN INPUT REGISTERS
 ,------------------------------------------------
 
 MOVE DATA INTO WORKING REGISTERS
-<<<<<<<<<<[->>>>>>>>>>>>>+<<<<<<<<<<<<<] Move 0 -> 13
->>>>>>>>>[->>>>>+>>>>>>+<<<<<<<<<<<] Move 9 -> 14 : 21
+<<<<<<<<<<[->>>>>>>>>>>>>+<<<<<<<<<<<<<] Move 0 = 13
+>>>>>>>>>[->>>>>+>>>>>>+<<<<<<<<<<<] Move 9 = 14 : 21
+<<<<<<<<[->>>>>>>>>>>>>>>+<<<<<<<<<<<<<<<] Move 2 = 16
+>>>>>>>>>[->>>>>>>+<<<<<<<] Move 9 = 17
 ,
 
 CALCULATE HIDDEN NEURON A OUTPUT
